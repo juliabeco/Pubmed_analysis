@@ -40,7 +40,7 @@ PUBMED_PROJECT/
 
 1. **Clone the repository**
 ```bash
-git clone [<repository_url> ](https://github.com/juliabeco/Pubmed_analysis.git)
+git clone https://github.com/juliabeco/Pubmed_analysis.git
 ```
 
 2. Install dependencies
