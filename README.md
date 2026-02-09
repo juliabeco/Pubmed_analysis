@@ -116,4 +116,4 @@ Most Recent Abstract Published
   - Comparing publication patterns between journals
   - Automating the full pipeline from data extraction to analysis
 - Designed for portfolio purposes to demonstrate data analytics skills, EDA, and a structured workflow in a healthcare-related context.
-- The idea for this project was inspired by discussions with my friend and colleague, Laura Aballay.
+- The idea for this project was inspired by discussions with my friend and colleague, [Laura Aballay.](https://github.com/lauraaballay)
