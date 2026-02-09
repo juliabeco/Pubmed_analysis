@@ -1,6 +1,6 @@
 # PubMed Abstracts Project
 
-![Main ](resources/pubmed_image.PNG)
+![Main ](resources/pubmed_image.png)
 
 ## Overview
 
