@@ -1,5 +1,7 @@
 # PubMed Abstracts Project
 
+![Main ](resources/pubmed_image.PNG)
+
 ## Overview
 
 This project demonstrates a complete pipeline to extract, process, and analyze scientific abstracts from PubMed. It showcases data engineering, exploratory data analysis (EDA), and reproducible workflows using Python.
@@ -114,4 +116,5 @@ Most Recent Abstract Published
   - Comparing publication patterns between journals
   - Automating the full pipeline from data extraction to analysis
 - Designed for portfolio purposes to demonstrate data analytics skills, EDA, and a structured workflow in a healthcare-related context.
+- The idea for this project was inspired by discussions with my friend and colleague, Laura Aballay.
   
