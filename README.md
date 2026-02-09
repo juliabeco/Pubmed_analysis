@@ -42,7 +42,7 @@ PUBMED_PROJECT/
 
 1. **Clone the repository**
 ```bash
-git clone <repository_url> 
+git clone https://github.com/juliabeco/Pubmed_analysis.git
 ```
 
 2. Install dependencies
@@ -117,4 +117,3 @@ Most Recent Abstract Published
   - Automating the full pipeline from data extraction to analysis
 - Designed for portfolio purposes to demonstrate data analytics skills, EDA, and a structured workflow in a healthcare-related context.
 - The idea for this project was inspired by discussions with my friend and colleague, Laura Aballay.
-  
