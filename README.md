@@ -1,10 +1,10 @@
 # PubMed Abstracts Project
 
-![Main ](resources/pubmed_image.png)
-
 ## Overview
 
 This project demonstrates a complete pipeline to extract, process, and analyze scientific abstracts from PubMed. It showcases data engineering, exploratory data analysis (EDA), and reproducible workflows using Python.
+
+![Main ](resources/pubmed_image.png)
 
 **Key features:**
 - Extract abstracts from PubMed using user-defined search queries.
